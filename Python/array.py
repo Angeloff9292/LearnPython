@@ -16,4 +16,4 @@ print(browsers[1])
 # Выводим в массиве ОТ и ДО
 print(browsers[0:3])
 
-#test
+# test

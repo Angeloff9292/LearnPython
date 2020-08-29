@@ -1,7 +1,7 @@
 # назначаем значения
 configs = {
     "browser": "Safari",
-    "app": "google site", 
+    "app": "google site",
     "test": "smoke",
     "log": True
 }
