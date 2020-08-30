@@ -59,4 +59,4 @@ with open('test_file_name.txt', "r+") as file:
 if(file.closed) == True :
     print ("File is closed")
 else:
-    print('File not closed')
+    file.close()
