@@ -13,7 +13,7 @@ nameesCombined[1]='Willian' # Замена позиции по индексу
 
 nameesCombined.append('Tomas') # Добавление записи в список
 
-popped = nameesCombined.pop() # УДаление последнего елемента
+popped = nameesCombined.pop() # Удаление последнего елемента
 
 print(popped)
 
