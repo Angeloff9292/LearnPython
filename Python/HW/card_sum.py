@@ -17,3 +17,5 @@ cards = { 2: 1, 3: 1, 4: 1, 5: 1, 6: 1, 7: 0, 8: 0, 9: 0, 10: -1, 'J': -1, 'K': 
 sums1 = sum([cards[x] for x in current_hand])
 
 print(sums1) 
+
+current_hand.append()

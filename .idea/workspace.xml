@@ -26,9 +26,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74120782-6887-4275-8a45-7f87359e51c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObject/pyTestRequests/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/pyTestRequests/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/HW/card_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HW/card_sum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +42,10 @@
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PageObject/pyTestRequests" />
   </component>
   <component name="ProjectId" id="1gVZpCzCnxTpwqLKDhIO42LRmLe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,6 +54,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -172,6 +175,10 @@
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state width="1899" height="337" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1598206050355" />
+    <state x="469" y="236" key="SettingsEditor" timestamp="1603819804351">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="469" y="236" key="SettingsEditor/0.0.1920.1200/-1080.-497.1080.1920@0.0.1920.1200" timestamp="1603819804351" />
     <state x="560" y="337" key="Vcs.Push.Dialog.v2" timestamp="1598205241765">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
