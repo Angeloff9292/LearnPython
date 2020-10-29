@@ -1,13 +1,12 @@
-num = [i for i in range(1, 21)]
-res = []
+num = [i for i in range(1, 11)]
+res = {}
+x = 1
 
-def division(n):
-        for n in range(1, n):
-            for i in num:
-                result = n%i
-                
-                if (result == 0):
-                    res.append(n)
-                
-print(division(1000))
+def divis(x):
+    for i in num:
+        if x%i == 0:
+            res[i] = x
+            x+=1
+
+divis(x)
 print(res)
