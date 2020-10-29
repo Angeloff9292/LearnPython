@@ -1,5 +1,0 @@
-Name|Phone
-John;1234
-Bob;9378
-Elice;9432
-Edgar;8903
