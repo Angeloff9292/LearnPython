@@ -1,12 +1,11 @@
-num = [i for i in range(1, 11)]
-res = {}
 x = 1
 
-def divis(x):
-    for i in num:
-        if x%i == 0:
-            res[i] = x
-            x+=1
+status = True
 
-divis(x)
-print(res)
+while status:
+    z = []
+    z=[i for i in range (21,1, -1) if x%i==0]
+    if len(z) == 20:
+        print(x)
+        status = False
+    x+=1

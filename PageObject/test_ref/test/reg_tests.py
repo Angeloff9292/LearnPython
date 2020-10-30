@@ -1,8 +1,8 @@
 import unittest
-
 from appium.webdriver.common.mobileby import MobileBy
-
 from utils.setup_env.init_appium import Driver
+import pytest
+
 
 
 class RegistrationTestCases(unittest.TestCase):
