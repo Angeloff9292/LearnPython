@@ -2,9 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "../git/keen-ui-ext/appium_tests"
 		}
 	]
 }
