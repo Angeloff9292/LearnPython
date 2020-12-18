@@ -1,5 +1,3 @@
-import re
-
 alredyCupsStr = input("How many cups you already drink?\n")
 reg = re.match(r"^\d+$", alredyCupsStr)
 
